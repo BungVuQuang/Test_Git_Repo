@@ -4,3 +4,6 @@
 [submodule "Sub2"]
 	path = Sub2
 	url = https://github.com/BungVuQuang/Test_Git_2.git
+[submodule "jlink"]
+	path = jlink
+	url = https://github.com/BungVuQuang/Test_Git_2.git
